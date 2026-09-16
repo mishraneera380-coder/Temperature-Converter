@@ -24,7 +24,12 @@ Designed to provide real-time conversion between Celsius, Fahrenheit, and Kelvin
 ---
 
 ## Project Structure
+Temperature-Converter/
 
+│── README.md       
+│── index.html      
+│── style.css       
+│── main.js          
 
 ---
 
